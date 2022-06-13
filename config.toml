@@ -1,0 +1,40 @@
+baseURL = 'https://liguangchang.cn'
+languageCode = 'en-us'
+theme ="gokarna"
+accentColor = "#FF4D4D"
+title = "lgc523"
+
+pygmentsStyle = "monokai"
+
+
+[menu]
+	[[menu.main]]
+		url = "/archive"
+		name = "archive"
+		weight = 1
+		pre = "<span data-feather='archive'></span>"
+    [[menu.main]]
+		url = "/code"
+		name = "code"
+		weight= 2
+		pre = "<span data-feather='edit'></span>"
+	[[menu.main]]
+		url = "/tags"
+		name = "tag"
+		weight = 3
+		pre = "<span data-feather='paperclip'></span>"
+	
+	[[menu.main]]
+		url = "https://github.com/lgc523"
+		weight = 4
+		pre = "<span data-feather='github'></span>"
+
+[params]
+	avatarURL = "images/WechatIMG52.jpeg"
+	avatarSize = "size-m"
+	description = "Reading · Coding · Breathing"
+	accentColor = "#08F"
+	showPostsOnHomePage = "recent"
+	footer = "Powered By Hugo·gokarna"	
+	customerHeadHTML = "<script>console.log('Any HTML')</script>"
+
