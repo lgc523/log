@@ -30,7 +30,7 @@ pygmentsStyle = "monokai"
 		pre = "<span data-feather='github'></span>"
 
 [params]
-	avatarURL = "images/WechatIMG52.jpeg"
+	avatarURL = "/images/WechatIMG52.jpeg"
 	avatarSize = "size-m"
 	description = "Reading · Coding · Breathing"
 	accentColor = "#08F"
