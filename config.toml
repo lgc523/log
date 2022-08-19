@@ -35,6 +35,6 @@ pygmentsStyle = "monokai"
 	description = "Reading · Coding · Breathing"
 	accentColor = "#08F"
 	showPostsOnHomePage = "recent"
-	footer = "Powered By Hugo·gokarna"	
+	footer = ''	
 	customerHeadHTML = "<script>console.log('Any HTML')</script>"
 
