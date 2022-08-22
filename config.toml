@@ -3,7 +3,7 @@ languageCode = 'en-us'
 theme ="gokarna"
 accentColor = "#FF4D4D"
 title = "lgc523"
-
+author.name="lgc523"
 pygmentsStyle = "monokai"
 
 
@@ -13,7 +13,7 @@ pygmentsStyle = "monokai"
 		name = "archive"
 		weight = 1
 		pre = "<span data-feather='archive'></span>"
-    [[menu.main]]
+        [[menu.main]]
 		url = "/code"
 		name = "code"
 		weight= 2
@@ -30,11 +30,12 @@ pygmentsStyle = "monokai"
 		pre = "<span data-feather='github'></span>"
 
 [params]
-	avatarURL = "/images/WechatIMG52.jpeg"
+        footerCopyright='<a href="https://beian.miit.gov.cn">京ICP备2020035531号-2</a>'
+	avatarURL = "/log_image/head.jpeg"
 	avatarSize = "size-m"
 	description = "Reading · Coding · Breathing"
 	accentColor = "#08F"
 	showPostsOnHomePage = "recent"
-	footer = ''	
+	footer = 'lgc523'	
 	customerHeadHTML = "<script>console.log('Any HTML')</script>"
 

@@ -13,3 +13,6 @@ type: page
 4. [C++ Primer Plus 5](/code/c++/)
 5. [Java](/code/Java/)
 6. [Go](/code/Go/)
+7. [设计模式-策略模式](/code/design-pattern/strategy-pattern)
+8. [设计模式-责任链模式](/code/design-pattern/chain-pattern)
+9. [设计模式-迭代器模式](/code/design-pattern/iterator-pattern)
